@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+
     <title>Mi Proyecto</title>
 </head>
 <body>
