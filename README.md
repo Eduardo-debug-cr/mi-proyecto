@@ -1,7 +1,11 @@
 index.html
+<!DOCTYPE html>
+<html>
+<head>
     <title>Mi Proyecto</title>
 </head>
 <body>
-    <h1>¡Proyecto creado desde mi móvil!</h1>
+    <h1>¡Hola desde mi móvil! 🚀</h1>
 </body>
+</html>
 
